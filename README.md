@@ -1,3 +1,44 @@
+# Settings
+
+## Filament
+### PLA
+* T_nozzel_first_layers = 220C
+* T_nozzel_other_layers = 205C
+<img src="img/1.png" width="500" />
+
+* sparse_infill_pattern = gyroid
+* sparse_infill_density = 20%
+<img src="img/2.png" width="500" />
+
+# Sources
+**Recommandation**: use gemini notebook LLM by loading documentation of the 3d printer as source.\
+Then, send picture of problem and do iteration to solve.
+
+## specific to the machine
+* [web page](https://www.creality.com/products/ender-3-v2-3d-printer-csco)
+* [beginer](https://www.youtube.com/watch?v=b2Od4YHcLAQ)
+* [cura x creality-3 V2](https://www.youtube.com/watch?v=e-lQPGJ3Psc)
+
+
+* [installation](https://www.youtube.com/watch?v=LV1Nnohwqik)
+* [maintainance](https://www.youtube.com/watch?t=491&v=v8SwY8yveqc&feature=youtu.be)
+* [bed level](https://www.youtube.com/watch?v=ypb1OUII9Nw)
+* [upgrade](https://www.youtube.com/watch?v=v8SwY8yveqc&t=491s)
+* [benctest boat](https://www.printables.com/model/597124-3dbenchy-boat-printer-test/files)
+
+## general about 3d printing
+* [start](https://www.youtube.com/watch?v=ENDCemxyA1o)
+* [temp issue](https://www.youtube.com/watch?v=bkzEBcN-L6k)
+
+## 3d printing model website
+* [printable](https://www.printables.com/)
+* [thingiverse](https://www.thingiverse.com/)
+* [cult3d](https://cults3d.com/)
+
+
+
+# other sources
+
 Ender3 V2 Assisted Bed Leveling
 ================================
 
